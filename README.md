@@ -6,7 +6,7 @@ This repository is created specifically to store some of my solutions to [Hacker
 |[Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem) |[Alphabet_Rangoli.py](https://github.com/Luel-Hagos/Hackerrank_Solutions/blob/master/Alphabet_Rangoli.py) |
 |[Array Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics)  |[Array_Mathematics.py](https://github.com/Luel-Hagos/Hackerrank_Solutions/blob/master/Array_Mathematics.py)   |
 | [Arrays](https://www.hackerrank.com/challenges/np-arrays/problem) | [Arrays.py](https://github.com/Luel-Hagos/Hackerrank_Solutions/blob/master/Arrays.py)  |
-|[Concatenate](https://www.hackerrank.com/challenges/30-arrays/problem)  | [Concatenate.py](https://github.com/Luel-Hagos/Hackerrank_Solutions/blob/master/Concatenate.py)  |
+|[Concatenate](https://www.hackerrank.com/challenges/30-arrays/problem)  | [Concatenate.py](https://github.com/Luel-Hagos/Hackerrank_Solutions/blob/master/Concatenate.py) |
 |[Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)  |[Designer_Door_Mat.py](https://github.com/Luel-Hagos/Hackerrank_Solutions/blob/master/Designer_Door_Mat.py)|
 |[Detect Floating PointNumber] (https://www.hackerrank.com/challenges/introduction-to-regex/problem) | [Detect_Floating_Point_Number.py](https://github.com/Luel-Hagos/Hackerrank_Solutions/blob/master/Detect_Floating_Point_Number.py)  |
 |[Dot and Cross](https://www.hackerrank.com/challenges/np-dot-and-cross/problem)  | [Dot_and_Cross.py](https://github.com/Luel-Hagos/Hackerrank_Solutions/blob/master/Dot_and_Cross.py)  |
