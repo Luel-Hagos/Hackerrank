@@ -8,7 +8,7 @@ This repository is created specifically to store some of my solutions to [Hacker
 | [Arrays](https://www.hackerrank.com/challenges/np-arrays/problem) | [Arrays.py](https://github.com/Luel-Hagos/Hackerrank_Solutions/blob/master/Arrays.py)  |
 |[Concatenate](https://www.hackerrank.com/challenges/30-arrays/problem)  | [Concatenate.py](https://github.com/Luel-Hagos/Hackerrank_Solutions/blob/master/Concatenate.py) |
 |[Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)  |[Designer_Door_Mat.py](https://github.com/Luel-Hagos/Hackerrank_Solutions/blob/master/Designer_Door_Mat.py)|
-|[Detect Floating PointNumber] (https://www.hackerrank.com/challenges/introduction-to-regex/problem) | [Detect_Floating_Point_Number.py](https://github.com/Luel-Hagos/Hackerrank_Solutions/blob/master/Detect_Floating_Point_Number.py)  |
+|[Detect Floating PointNumber](https://www.hackerrank.com/challenges/introduction-to-regex/problem) | [Detect_Floating_Point_Number.py](https://github.com/Luel-Hagos/Hackerrank_Solutions/blob/master/Detect_Floating_Point_Number.py)  |
 |[Dot and Cross](https://www.hackerrank.com/challenges/np-dot-and-cross/problem)  | [Dot_and_Cross.py](https://github.com/Luel-Hagos/Hackerrank_Solutions/blob/master/Dot_and_Cross.py)  |
 |[Eye and Identity](https://www.hackerrank.com/challenges/np-eye-and-identity/problem)  | [Eye_and_Identity.py](https://github.com/Luel-Hagos/Hackerrank_Solutions/blob/master/Eye_and_Identity.py)  |
 |[Floor Ceil and Rint] (https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem) |[Floor_Ceil_and_Rint.py] (https://github.com/Luel-Hagos/Hackerrank_Solutions/blob/master/Floor_Ceil_and_Rint.py)  |
